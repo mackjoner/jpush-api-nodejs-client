@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/jpush/jpush-api-nodejs-client.svg?branch=master)](https://travis-ci.org/jpush/jpush-api-nodejs-client)
+[![Build Status](https://travis-ci.org/mackjoner/jpush-api-nodejs-client.svg?branch=master)](https://travis-ci.org/mackjoner/jpush-api-nodejs-client)
 
 # JPush API client library for Node.js
 
