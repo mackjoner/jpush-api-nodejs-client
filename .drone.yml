@@ -1,0 +1,6 @@
+image: dockerfile/nodejs
+name: jpush-node-client
+script:
+  - npm config set ca ""
+  - npm install
+  - npm test
